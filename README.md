@@ -16,3 +16,5 @@ A few points about the microG setup. Due to the way patches are applied in the s
 
 ## Contributors
 * https://github.com/pgera
+* https://github.com/RattlesnakeOS
+* https://github.com/MicroG
