@@ -1,3 +1,5 @@
+This is forked from the RattlesnakeOS repo and updated with new versions of MicroG
+
 ## Note:
 The F-Droid MicroG repo portion is not tested. To try it, add "fdroid_repo" in the custom-prebuilts section. I will update this when I have tested it.
 
