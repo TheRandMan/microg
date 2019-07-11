@@ -1,4 +1,6 @@
-This an example of a custom shell script that sets a custom boot animation. You can test this out by adding the following to your rattlesnakeos-stack config file. See the [FAQ](https://github.com/dan-v/rattlesnakeos-stack#faq) for more details on customizations.
+This is an attempt to add swype gestures to AOSP keyboard in RattlesnakeOS. It's an attempt to replace libjni_latinime.so with libjni_latinimegoogle.so
+
+To use add the following to your RattlesnakeOS config:
 
 ```
 [[custom-scripts]]
