@@ -1,7 +1,4 @@
-This is forked from the RattlesnakeOS repo and updated with new versions of the MicroG components and set to automatically add the MicroG repo to F-Droid.
-
-## Note:
-The F-Droid MicroG repo portion is not tested. To try it, add "fdroid_repo" in the custom-prebuilts section. I will update this when I have tested it.
+This is forked from the RattlesnakeOS repo and just updated with newer versions of the MicroG components.
 
 ## How to
 Add the following to end of your `rattlesnakeos-stack` config file.
